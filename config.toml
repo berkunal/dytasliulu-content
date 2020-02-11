@@ -1,3 +1,109 @@
+######################## default configuration ####################
 baseURL = "http://dytasliulu.com/"
 languageCode = "tr"
 title = "Uzman Dyt. Aslı Ulu | Seferihisar"
+theme = "hargo"
+summaryLength = "20"
+paginate = 10
+disqusShortname = ""
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  link = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  link = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  link = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  link = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  link = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  link = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  link = "plugins/google-map/gmap.js"
+
+############################## navigation ###############################
+[menu]
+    
+  [[menu.main]]
+  name = "Hakkımızda"
+  URL = "about-us"
+  weight = 1
+  
+  [[menu.main]]
+  name = "Hizmetlerimiz"
+  URL = "our-services"
+  weight = 2
+  
+  [[menu.main]]
+  name = "İletişim"
+  URL = "contact"
+  weight = 3
+
+  ############# footer menu #############
+  [[menu.footer]]
+  name = "Hakkımızda"
+  URL = "about-us"
+  weight = 1
+  
+  [[menu.footer]]
+  name = "Hizmetlerimiz"
+  URL = "our-services"
+  weight = 2
+  
+  [[menu.footer]]
+  name = "İletişim"
+  URL = "contact"
+  weight = 3
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Anasayfa"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# google map
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+mapLatitude = "51.5223477"
+mapLongitude = "-0.1622023"
+mapMarker = "images/marker.png"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# Contact Information
+mobile = "0544 677 69 59"
+email = "dytasliulu@gmail.com"
+location = "Seferihisar, Izmir"
+# copyright
+copyright = "| &copy; 2020 Aslı Ulu | Development - Berk Ünal |"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # Product Rating
+  # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
+  [params.rating]
+  enable = false
+  websiteID = "451903"
+  publicKey = "686f622898c1758fb130916375100fa5"
+
+  # Social Site
+  [[params.social]]
+  icon = "ti-facebook"
+  link = "https://www.facebook.com/dytasliulu/"
+  
+  [[params.social]]
+  icon = "ti-instagram"
+  link = "https://www.instagram.com/dytasliulu/"
+
+  # Contact Form
+  [params.contact]
+  formAction = "#" # contact form works with formspree.io
