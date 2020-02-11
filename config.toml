@@ -106,4 +106,4 @@ copyright = "| &copy; 2020 Aslı Ulu | Development - Berk Ünal |"
 
   # Contact Form
   [params.contact]
-  formAction = "#" # contact form works with formspree.io
+  formAction = "https://formspree.io/mbjopyjq" # contact form works with formspree.io
