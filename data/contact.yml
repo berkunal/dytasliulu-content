@@ -9,7 +9,7 @@ contact:
 
   # opennig hour
   opennigHour:
-    title : "Calisma Saatleri"
+    title : "Çalışma Saatleri"
     dayTimeList:
       - dayTime : "Pazartesi: 9:00 – 18:00"
       - dayTime : "Sali: 9:00 – 18:00"
@@ -17,7 +17,7 @@ contact:
       - dayTime : "Persembe: 9:00 – 18:00"
       - dayTime : "Cuma: 9:00 – 18:00"
       - dayTime : "Cumartesi: 9:00 – 15:00"
-      - dayTime : "Pazar: kapali"
+      - dayTime : "Pazar: Kapalı"
 
 ####################### google map ########################
 map:

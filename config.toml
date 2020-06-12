@@ -64,24 +64,23 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/favicon-32x32.png"
 home = "Anasayfa"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Aslı Ulu"
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB1O7wGr9LGCmDbeQxr1H_U3AYFBgynAu0&libraries=places"
+mapLatitude = "38.1949571"
+mapLongitude = "26.8368522"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "0544 677 69 59"
 email = "dytasliulu@gmail.com"
-location = "Seferihisar, Izmir"
+location = "Hıdırlık mah. 55 sok. Yalçın Apt. No:2 Kat:2 Seferihisar/İzmir"
 # copyright
-copyright = "| &copy; 2020 Aslı Ulu | Development - Berk Ünal |"
+copyright = "| &copy; 2020 Aslı Ulu - Berk Ünal |"
 
   # Preloader
   [params.preloader]

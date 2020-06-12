@@ -2,12 +2,12 @@
 banner:
   enable : true
   title : "Asli Ulu"
-  content : "COK UZMAN DIYETISTEN ASLI ULU"
-  image : "images/banner.png"
+  content : "UZMAN DİYETİSYEN"
+  image : "images/logo.png"
   # button
   button:
     enable : true
-    label : "Hakkimizda"
+    label : "Hakkımızda"
     link : "about-us"
   # demo video
   video:
@@ -21,17 +21,18 @@ about:
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
           clita kasd gubergren"
-  image : "images/about.png"
+  image : "images/logo.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
   title : "Hizmetlerimiz"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren"
-  image : "images/cta.png"
+  content : "Diyetisyene gitmek için vakit bulamıyorsanız, çevrenizde böyle bir imkan yok ise; 
+    hangi şehir veya ülkede olduğunuz artık önemli değil! 
+    İdeal kilonuza ulaşmak ve sağlıklı beslenme alışkanlıkları elde etmek istiyorsanız; 
+    Uzman Diyetisyen Aslı Ulu, online diyet programı ile bir tık kadar uzağınızda…"
+  image : "images/logo.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Hizmetlerimiz"
@@ -67,17 +68,19 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Asli Ulu"
-  subtitle : "Cok sasiracaksiniz"
-  image : "images/advantage.png"
+  title : "Başlıca Hizmetlerimiz"
+  subtitle : "Detaylar için Hizmetlerimiz sayfasını ziyaret edin"
+  image : "images/logo.png"
   advantageList:
     # advantage list loop
-    - listItem : "Cok acayip"
-    - listItem : "Cok manyak"
-    - listItem : "Cok deli"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Obezite ve Kilo Kontrolü"
+    - listItem : "Emziklik Döneminde Beslenme"
+    - listItem : "Online Diyet"
+    - listItem : "Sporcu Beslenmesi"
+    - listItem : "Hastalıklarda Beslenme ve Diyet Tedavisi"
+    - listItem : "Yeme Davranış Bozukluklarında Beslenme"
+    - listItem : "Hamilelik Döneminde Beslenme ve Kilo Kontrolü"
+    - listItem : "Okul Öncesi Dönem ve Adölesan Dönemde Beslenme"
 
 
 ######################## Promo Video ##########################
