@@ -21,7 +21,7 @@ about:
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
           clita kasd gubergren"
-  image : "images/logo.png"
+  image : "images/diyet.png"
 
 
 ###################### Call to action ########################
@@ -70,7 +70,7 @@ advantage:
   enable : true
   title : "Başlıca Hizmetlerimiz"
   subtitle : "Detaylar için Hizmetlerimiz sayfasını ziyaret edin"
-  image : "images/logo.png"
+  image : "images/meyve.png"
   advantageList:
     # advantage list loop
     - listItem : "Obezite ve Kilo Kontrolü"
@@ -96,7 +96,7 @@ video:
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "Danisanlarimiz Bizim Hakkimizda Neler Soyluyor"
+  title : "Danışanlarımız Hakkımızda Ne Diyor?"
   testimonialItem:
     # testimonial item loop
     - name : "Berk Unal"
