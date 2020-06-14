@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Asli Ulu"
   content : "UZMAN DİYETİSYEN"
-  image : "images/logo.png"
+  image : "images/asli_1_landscape.jpg"
   # button
   button:
     enable : true
@@ -32,7 +32,7 @@ cta:
     hangi şehir veya ülkede olduğunuz artık önemli değil! 
     İdeal kilonuza ulaşmak ve sağlıklı beslenme alışkanlıkları elde etmek istiyorsanız; 
     Uzman Diyetisyen Aslı Ulu, online diyet programı ile bir tık kadar uzağınızda…"
-  image : "images/logo.png"
+  image : "images/meyve_mini.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Hizmetlerimiz"
@@ -70,7 +70,7 @@ advantage:
   enable : true
   title : "Başlıca Hizmetlerimiz"
   subtitle : "Detaylar için Hizmetlerimiz sayfasını ziyaret edin"
-  image : "images/meyve.png"
+  image : "images/diyet.jpg"
   advantageList:
     # advantage list loop
     - listItem : "Obezite ve Kilo Kontrolü"

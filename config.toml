@@ -46,6 +46,11 @@ disqusShortname = ""
   URL = "contact"
   weight = 3
 
+  [[menu.main]]
+  name = "Galeri"
+  URL = "gallery"
+  weight = 4
+
   ############# footer menu #############
   [[menu.footer]]
   name = "Hakkımızda"
@@ -62,9 +67,14 @@ disqusShortname = ""
   URL = "contact"
   weight = 3
 
+  [[menu.footer]]
+  name = "Galeri"
+  URL = "gallery"
+  weight = 4
+
 #################### default parameters ################################
 [params]
-logo = "images/favicon-32x32.png"
+logo = "images/logo_mini.png"
 home = "Anasayfa"
 # Meta data
 description = "This is meta description"
