@@ -11,12 +11,12 @@ contact:
   opennigHour:
     title : "Çalışma Saatleri"
     dayTimeList:
-      - dayTime : "Pazartesi: 9:00 – 18:00"
-      - dayTime : "Sali: 9:00 – 18:00"
-      - dayTime : "Carsamba: 9:00 – 18:00"
-      - dayTime : "Persembe: 9:00 – 18:00"
-      - dayTime : "Cuma: 9:00 – 18:00"
-      - dayTime : "Cumartesi: 9:00 – 15:00"
+      - dayTime : "Pazartesi: 9:00 – 19:00"
+      - dayTime : "Sali: 9:00 – 19:00"
+      - dayTime : "Carsamba: 9:00 – 19:00"
+      - dayTime : "Persembe: 9:00 – 19:00"
+      - dayTime : "Cuma: Kapalı"
+      - dayTime : "Cumartesi: Kapalı"
       - dayTime : "Pazar: Kapalı"
 
 ####################### google map ########################
