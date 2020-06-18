@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://dytasliulu.com/"
+baseURL = "https://dytasliulu.com/"
 languageCode = "tr"
 title = "Uzm. Diyetisyen Aslı Ulu | Seferihisar"
 theme = "hargo"
