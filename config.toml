@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "http://dytasliulu.com/"
 languageCode = "tr"
-title = "Uzman Dyt. Aslı Ulu | Seferihisar"
+title = "Uzm. Diyetisyen Aslı Ulu | Seferihisar"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10

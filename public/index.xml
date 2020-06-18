@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uzman Dyt. Aslı Ulu | Seferihisar</title>
+    <title>Uzm. Diyetisyen Aslı Ulu | Seferihisar</title>
     <link>http://dytasliulu.com/</link>
-    <description>Recent content on Uzman Dyt. Aslı Ulu | Seferihisar</description>
+    <description>Recent content on Uzm. Diyetisyen Aslı Ulu | Seferihisar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <lastBuildDate>Mon, 10 Feb 2020 21:13:15 -0800</lastBuildDate>
@@ -17,17 +17,80 @@
       <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
       
       <guid>http://dytasliulu.com/about-us/about-us/</guid>
-      <description>Merhaba! Ben uzman diyetisyen Aslı Ulu. Acıbadem Üniversitesi Beslenme ve Diyetetik Bölümü’nden 2018 yılında mezun oldum. Üniversite eğitimim süresince kamu ve özel kurumlarda staj yapma fırsatım oldu.</description>
+      <description>Merhaba! Ben Uzman Diyetisyen Aslı Ulu. Acıbadem Üniversitesi Beslenme ve Diyetetik Bölümü’nden 2018 yılında mezun oldum. Üniversite eğitimim süresince kamu ve özel kurumlarda staj yapma fırsatım oldu.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://dytasliulu.com/our-services/services/</link>
+      <link>http://dytasliulu.com/gallery/gallery_1/</link>
       <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
       
-      <guid>http://dytasliulu.com/our-services/services/</guid>
+      <guid>http://dytasliulu.com/gallery/gallery_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dytasliulu.com/gallery/gallery_2/</link>
+      <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
+      
+      <guid>http://dytasliulu.com/gallery/gallery_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dytasliulu.com/gallery/gallery_3/</link>
+      <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
+      
+      <guid>http://dytasliulu.com/gallery/gallery_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dytasliulu.com/gallery/gallery_4/</link>
+      <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
+      
+      <guid>http://dytasliulu.com/gallery/gallery_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dytasliulu.com/our-services/services_1/</link>
+      <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
+      
+      <guid>http://dytasliulu.com/our-services/services_1/</guid>
       <description>Obezite ve Kilo Kontrolü Dünya Sağlık Örgütü obeziteyi; sağlığı bozacak ölçüde vücutta aşırı yağ birikmesi olarak tanımlanmıştır.
 Obezite; besinlerle alınan enerjinin harcanan enerjiden fazla olması ve fazla enerjinin vücutta yağ olarak depolanması sonucu ortaya çıkan, yaşam kalitesini ve süresini olumsuz yönde etkileyen bir hastalık olarak kabul edilmektedir.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dytasliulu.com/our-services/services_2/</link>
+      <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
+      
+      <guid>http://dytasliulu.com/our-services/services_2/</guid>
+      <description>Hastalıklarda Beslenme ve Diyet Tedavisi Hastalıklarda beslenme, hastalık esnasında tedavi sürecini desteklemek ve hastanın hayat kalitesini artırmak amaçlı olarak uygulanır. Doğru tanı ve doğru beslenme tedavisi hastalıklardaki başarıyı da beraberinde getiren etmenlerin başında gelmekte ve yaşam boyu sürmektedir.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dytasliulu.com/our-services/services_3/</link>
+      <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
+      
+      <guid>http://dytasliulu.com/our-services/services_3/</guid>
+      <description>Yeme Davranış Bozukluklarında Beslenme Yeme bozukluğu, bireyin mental ve duygusal durumundan kaynaklanarak, aşırı yeme veya yetersiz beslenmesi durumudur. Yeme bozuklukları 3 gruba ayrılır:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dytasliulu.com/our-services/services_4/</link>
+      <pubDate>Mon, 10 Feb 2020 21:13:15 -0800</pubDate>
+      
+      <guid>http://dytasliulu.com/our-services/services_4/</guid>
+      <description>Okul Öncesi Dönem ve Adölesan Dönemde Beslenme Küçük yaşta kazanılacak olan sağlıklı beslenme alışkanlığı, ömür boyu sürecek bir davranış biçimi demektir.</description>
     </item>
     
   </channel>

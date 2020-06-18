@@ -1,9 +1,9 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Asli Ulu"
+  title : "Aslı Ulu"
   content : "UZMAN DİYETİSYEN"
-  image : "images/asli_1_landscape.jpg"
+  image : "images/asli_masa_16-9.jpg"
   # button
   button:
     enable : true
@@ -17,22 +17,44 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "Prosedur"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren"
-  image : "images/diyet.png"
+  title : "Prosedür"
+  content : "### İlk Randevuya Gelmeden Önce
+
+          * [Kan tahlili](https://drive.google.com/file/d/1WGJGJ4IJoM0MTXuvMgjc6liETUrevXwf/view?usp=sharing) sonuçları alınmalı
+
+          * 2 saat öncesinde yeme-içme sonlandırılmalı
+
+          * 4 saat öncesinde çay-kahve tüketimi kesilmeli
+
+          ### İlk Seans
+
+          * Detaylı vücut analizi yapılır
+
+          * Kişisel hedef belirlenir
+
+          * Beslenme alışkanlıklarınız ve tıbbi geçmişiniz doğrultusunda beslenme planı oluşturulur
+
+          * Yaklaşık 45 dakika sürer
+
+          ### Kontrol Seansları
+
+          * Detaylı vücut analizi yapılır
+
+          * Beslenme planınız güncellenir
+          
+          * Yaklaşık 15 dakika sürer
+
+          * Her hafta gercekleşir"
+  image : "images/procedure.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
   title : "Hizmetlerimiz"
-  content : "Diyetisyene gitmek için vakit bulamıyorsanız, çevrenizde böyle bir imkan yok ise; 
-    hangi şehir veya ülkede olduğunuz artık önemli değil! 
-    İdeal kilonuza ulaşmak ve sağlıklı beslenme alışkanlıkları elde etmek istiyorsanız; 
-    Uzman Diyetisyen Aslı Ulu, online diyet programı ile bir tık kadar uzağınızda…"
-  image : "images/meyve_mini.png"
+  content : "İdeal kilonuza ulaşmak ve sağlıklı beslenme alışkanlıkları edinmek, Uzman Diyetisyen Aslı Ulu tarafından, sizin için özel hazırlanacak olan diyet programları ile mümkün oluyor!
+     Bu diyet programları hakkında bilgi almak için Hizmetlerimiz sayfasını ziyaret edin."
+  image : "images/pineapple_mini.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Hizmetlerimiz"
@@ -70,7 +92,7 @@ advantage:
   enable : true
   title : "Başlıca Hizmetlerimiz"
   subtitle : "Detaylar için Hizmetlerimiz sayfasını ziyaret edin"
-  image : "images/diyet.jpg"
+  # image : "images/dissyet.jpg"
   advantageList:
     # advantage list loop
     - listItem : "Obezite ve Kilo Kontrolü"
@@ -95,7 +117,7 @@ video:
 
 ########################## Testimonial ########################
 testimonial:
-  enable : true
+  enable : false
   title : "Danışanlarımız Hakkımızda Ne Diyor?"
   testimonialItem:
     # testimonial item loop
